@@ -1,7 +1,7 @@
 # Selinux
 Automated SElinux enabler script
 This script allows you to enable SElinux for more security.
-If you want to check if its enabled or not then checkout **[`selinux-scanner`](https://github.com/sudesh3107/nessus-vulnerability-scanner-fedora-automated-installer)**
+If you want to check if its enabled or not then checkout **[`Selinux-scanner`](https://github.com/sudesh3107/Selinux-scanner.git)**
 ## Installation
 
 ### Clone the repository
