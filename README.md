@@ -7,7 +7,7 @@ If you want to check if its enabled or not then checkout **[`selinux-scanner`](h
 ### Clone the repository
 
 ```bash
-git clone https://github.com/sudesh3107/website-vulnerability-scanner.git
+git clone https://github.com/sudesh3107/Selinux.git
 ```
 ```bash
 cd Selinux
